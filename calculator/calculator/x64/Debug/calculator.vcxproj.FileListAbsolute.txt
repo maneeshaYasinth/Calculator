@@ -1,0 +1,4 @@
+C:\Users\maneesha yasinth\Desktop\codes\C++\calculator\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+C:\Users\maneesha yasinth\Desktop\codes\C++\calculator\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maneesha yasinth\Desktop\codes\C++\Calculator\calculator\x64\Debug\calculator.Form1.resources
+C:\Users\maneesha yasinth\Desktop\codes\C++\Calculator\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache

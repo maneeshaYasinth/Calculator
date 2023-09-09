@@ -1,0 +1,6 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\maneesha yasinth\Desktop\codes\C++\Calculator\calculator\CppCLR_WinFormsProject.cpp(1,1): warning C4005: '__CLR_VER': macro redefinition
+C:\Users\maneesha yasinth\Desktop\codes\C++\Calculator\calculator\CppCLR_WinFormsProject.cpp(1,1): message : '__CLR_VER' previously declared on the command line
+C:\Users\maneesha yasinth\Desktop\codes\C++\Calculator\calculator\CppCLR_WinFormsProject.cpp(1,1): warning C4651: '/D__CLR_VER=40809139' specified for precompiled header but not for current compile
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  calculator.vcxproj -> C:\Users\maneesha yasinth\Desktop\codes\C++\Calculator\x64\Debug\calculator.exe
